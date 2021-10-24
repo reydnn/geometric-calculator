@@ -867,3 +867,10 @@ V = pi * r ^ 2 * h
             fig: Any = plt.figure()
             ax: Any = fig.add_subplot(111, projection='3d')
             ax.plot_surface(x, y, z) 
+            
+
+Тестирование 
+~~~~~~~~~~~~~~~~~~
+Тестирование описано в модуле test_main.py. При помощи unittest были протестированы все методы всех классов. Результат тестирования:
+
+.. image:: README.assets/window.PNG
