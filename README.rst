@@ -873,4 +873,4 @@ V = pi * r ^ 2 * h
 ~~~~~~~~~~~~~~~~~~
 Тестирование описано в модуле test_main.py. При помощи unittest были протестированы все методы всех классов. Результат тестирования:
 
-.. image:: README.assets/window.PNG
+.. image:: README.assets/test.PNG
